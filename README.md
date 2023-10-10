@@ -1,6 +1,6 @@
 # DoDocker
 
-A simple python desktop application developed for:
+A simple python docker library developed for:
 
     1. 🚀 Docker Container directories navigation 🚀.
     2. 🚀 Very easy-to-use file copying from your host to your docker containers 🚀.
